@@ -1,2 +1,2 @@
-# MocktaiLEngineer.github.io
+# mocktailengineer.github.io
 This is a web-page showcasing my profile.
